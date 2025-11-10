@@ -25,7 +25,7 @@ It highlights trends in revenue, customer behavior, product profitability, and g
 ---
 
 ## 🖼️ Dashboard Preview
-
+Ecommerce sales dashboard (1).pdf
 
 ---
 
